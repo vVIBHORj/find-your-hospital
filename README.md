@@ -1,6 +1,2 @@
 # find your hospital a c++ project
-User will 1st choose their role as a patient or a doctor
-Patient then can choose the area and the city and find the nearby hospital
-Doctor can diagnose the patien and can save their reports
-For remote areas the program can predict the disease based on the Syptoms provided
-User can give their Feedback
+The user will first choose their role as a patient or a doctor. Patients can then choose the area and the city to find the nearby hospital. Doctors can diagnose the patient and save their reports. For remote areas, the program can predict the disease based on the symptoms provided. At last Users can give their feedback.
